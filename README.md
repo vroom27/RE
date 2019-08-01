@@ -1,5 +1,5 @@
 # pFogSim : A Simulator For Evaluating Dynamic and Layered Fog-Computing Environments
-Last Edit by Craigory Coppola on 2018-7-19
+Last Edit by Craigory Coppola on 2018-7-19.
 
 ## **What is pFogSim?**
 
